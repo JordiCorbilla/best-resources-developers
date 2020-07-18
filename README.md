@@ -52,3 +52,16 @@ FontAwesome
 Find fonts that works best for you
 
 - https://fontflipper.com/upload
+
+## Legal Documents
+
+If you need to create an NDA or a Dev contract, here is the place:
+
+- https://www.lawdepot.co.uk/
+- https://www.docracy.com/
+
+## Expose your projects
+
+If you need to expose your localhost to the public:
+
+- https://ngrok.com/
