@@ -66,3 +66,27 @@ If you need to expose your localhost to the public:
 
 - https://ngrok.com/
 - https://github.com/localtunnel/localtunnel
+
+## SVG
+
+- https://svgporn.com/
+
+## Avatar generation and illustrations
+
+- https://www.openpeeps.com/
+
+## UI Designs
+
+- https://www.uidesigndaily.com/
+
+## Source code presentation
+
+- https://carbon.now.sh/
+
+## Resume builders
+
+- https://resume.io/
+- https://wtfresume.com/
+- https://rx-resume.web.app/ 
+- https://cv.bytevitae.com
+- https://gitconnected.com/resume-builder
