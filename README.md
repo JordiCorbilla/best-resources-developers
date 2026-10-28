@@ -89,4 +89,5 @@ If you need to expose your localhost to the public:
 - https://wtfresume.com/
 - https://rx-resume.web.app/ 
 - https://cv.bytevitae.com
+- https://www.jobemerge.work/
 - https://gitconnected.com/resume-builder
